@@ -5,70 +5,70 @@
             "name": "Peter Parker",
             "hero": "Spiderman",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/color/344/spiderman-head.png"
+            "avatar": "https://img.icons8.com/color/320/spiderman-head.png"
         },
         {
             "id": "2",
             "name": "Bruce Banner",
             "hero": "Hulk",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/color/344/hulk.png"
+            "avatar": "https://img.icons8.com/color/320/hulk.png"
         },
         {
             "id": "3",
             "name": "Barry Allen",
             "hero": "Flash",
             "universe": "DC",
-            "avatar": "https://img.icons8.com/stickers/452/the-flash-head.png"
+            "avatar": "https://img.icons8.com/stickers/320/the-flash-head.png"
         },
         {
             "id": "4",
             "name": "Steve Rogers",
             "hero": "Captain America",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/stickers/344/captain-america.png"
+            "avatar": "https://img.icons8.com/stickers/320/captain-america.png"
         },
         {
             "id": "5",
             "name": "Thor Odinson",
             "hero": "Thor",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/stickers/344/thor.png"
+            "avatar": "https://img.icons8.com/stickers/320/thor.png"
         },
         {
             "id": "6",
             "name": "Diana Prince",
             "hero": "Wonder Woman",
             "universe": "DC",
-            "avatar": "https://img.icons8.com/stickers/452/wonder-woman.png"
+            "avatar": "https://img.icons8.com/stickers/320/wonder-woman.png"
         },
         {
             "id": "7",
             "name": "Natasha Romanoff",
             "hero": "Black Widow",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/color/344/black-widow.png"
+            "avatar": "https://img.icons8.com/color/320/black-widow.png"
         },
         {
             "id": "8",
             "name": "Bruce Wayne",
             "hero": "Batman",
             "universe": "DC",
-            "avatar": "https://img.icons8.com/color/344/batman.png"
+            "avatar": "https://img.icons8.com/color/320/batman.png"
         },
         {
             "id": "9",
             "name": "Clark Kent",
             "hero": "Superman",
             "universe": "DC",
-            "avatar": "https://img.icons8.com/color/344/superman-dc.png"
+            "avatar": "https://img.icons8.com/color/320/superman-dc.png"
         },
         {
             "id": "10",
             "name": "Tony Stark",
             "hero": "Ironman",
             "universe": "Marvel",
-            "avatar": "https://img.icons8.com/doodle/452/iron-man.png"
+            "avatar": "https://img.icons8.com/doodle/320/iron-man.png"
         }
     ]
 }

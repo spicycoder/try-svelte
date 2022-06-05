@@ -1,6 +1,7 @@
 <script lang="ts">
   import DisplayHero from './components/DisplayHero.svelte';
-import data from './data.json';
+  import Header from './components/Header.svelte';
+  import data from './data.json';
   import type { Hero } from './models/hero';
   let heroes = data.heroes as Hero[];
   let filter = '';
@@ -12,7 +13,7 @@ import data from './data.json';
 </script>
 
 <main class="flex flex-col justify-center items-center">
-  <h1 class="text-4xl">Super Heroes</h1>
+  <Header />
   <input type="text" class="input input-bordered input-primary m-4" placeholder="search ..." bind:value={filter}>
   <div class="btn-group">
     <input type="radio" name="options" bind:group={universe} value={0} data-title="All" class="btn" checked />
