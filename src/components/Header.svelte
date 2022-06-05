@@ -40,7 +40,7 @@
   <div class="navbar-start">
   </div>
   <div class="navbar-center">
-    <a href="/" class="btn btn-ghost normal-case text-4xl">super heroes</a>
+    <a href="/" class="btn btn-ghost uppercase text-4xl text-secondary">Super Heroes</a>
   </div>
   <div class="navbar-end">
     <select class="select select-primary" on:change={(e) => updateTheme(e.target.value)}>
