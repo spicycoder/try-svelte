@@ -1,8 +1,10 @@
 <script lang="ts">
-  import Counter from "./components/Counter.svelte";
+  let count = 1;
+  const increment = () => {
+    count++;
+  };
 </script>
 
-<main class="flex flex-col items-center justify-center h-screen">
-  <h1 class="text-4xl m-4">Hello Typescript!</h1>
-  <Counter />
+<main class="flex flex-col h-screen justify-center items-center">
+  <button on:click={increment} class="btn btn-primary w-24">{count}</button>
 </main>
